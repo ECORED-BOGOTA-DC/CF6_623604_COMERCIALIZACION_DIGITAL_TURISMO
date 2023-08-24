@@ -2,13 +2,44 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 0%
+    right: 220%
+    min-width: 80px
+    width: 80px
+    @media (min-width: 1400px)
+      right: 193%
+      min-width: 80px
+      width: 80px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 34%
+    right: 54%
+    min-width: 200px
+    width: 200px
+    @media (min-width: 1400px)
+      min-width: 255px
+      width: 255px
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: -2%
+    right: 50%
+    min-width: 180px
+    width: 180px
+    @media (min-width: 1400px)
+      min-width: 223px
+      width: 223px
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 27%
+    right: 4%
+    min-width: 80px
+    width: 80px
+    @media (min-width: 1400px)
+      min-width: 124px
+      width: 124px
 
 
 @keyframes float1
@@ -17,3 +48,20 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal
+  .banner-principal__row
+    min-height: 505px
+  .banner-principal__img
+    padding: 0 !important
+    @media (min-width: 1400px)
+      margin-top: auto
+      width: 612px
+    img
+      width: 612px
+      margin-left: auto
+.container-100
+  margin-left: -3rem
+  margin-right: -3rem
+  padding-right: 3rem
+  padding-left: 3rem

@@ -8,7 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    p.mb-5 El plan de mercadeo es un proceso muy importante en toda organización, este es muy amplio y abarca diferentes aspectos. Observe, entonces, a través del siguiente video, un poco lo que representa este plan como aspecto introductorio de este componente:
+
+    figure.col-xl-10.mx-auto(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
