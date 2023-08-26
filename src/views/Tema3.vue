@@ -227,6 +227,311 @@
     
     p.mb-5 Por ende, en el plan deben estar identificadas las principales fuentes de información (publicaciones digitales sectoriales, blogs temáticos) y definirse la potencialidad de cada contenido para ser utilizado en un post, en una historia, en un tweet, etc., actualizándose mensualmente tras evaluar qué contenidos funcionan mejor en cada canal. Además, debe documentarse el objetivo a que responde cada categoría dentro de la temática, un ejemplo ilustrativo del tono comunicativo que se utilizará y la periodicidad de publicación. Esta última es muy importante, ya que crea un hábito y fideliza a la audiencia.
 
+    .tabla-b.color-acento-contenido.mb-5
+      .tabla-b__header(style="background-color: white;")
+        h4.mb-0(style="color: black") Plan Editorial
+      table(style="min-width: 1224px")
+        thead
+          tr(style="background-color: #3D672F; color: white")
+            th.px-3.text-center(colspan="3") Producto, Servicio, Contenido
+            th Objetivo
+            th Ejemplo
+            th Fuentes
+            th Idioma
+            th Prioridad
+            th Frecuencia
+            th Notas
+        tbody
+          tr
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+          tr(style="background-color: #F6F6F6")
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+          tr
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+          tr(style="background-color: #F6F6F6")
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+          tr
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+          tr(style="background-color: #F6F6F6")
+            td
+            td
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td(style="border-right: 1px solid #707070")
+            td
+    
+    p.mb-5 En la tabla anterior, se muestra un modelo de plan editorial, el cual ayudará a programar la creación de contenidos propios y además agilizará la identificación de contenido de calidad generado por terceros, coherente con su posicionamiento y objetivos. 
+    
+    .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
+      img(src="@/assets/curso/temas/tema3/img-15.svg" style="max-width: 85px" alt="imagen decorativa")
+      p.col-md.mb-0.ps-md-4 El contenido de terceros cumple un doble objetivo: por un lado, le ayudará a entablar relaciones con creadores e <em>influencers</em>, y por el otro, le ayuda a presentarse como un actor transparente y honesto, para quien prima la calidad del contenido sobre su origen corporativo. Una vez más, necesitará apoyarse en la investigación y el <em>benchmarking</em> en otras comunidades similares para identificar el contenido de calidad, tanto para producirlo como para compartir el de otros. 
+
+    Separador
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_3 3.3. Características estratégicas de Internet
+    
+    p.mb-5 Internet es un entorno que, aplicado al terreno comercial, es ante todo un sitio donde hacer negocios con ciertas ventajas respecto a las fórmulas empresariales tradicionales. Visto desde esta óptica, existe una serie de utilidades fundamentales que siempre se deberían tener en cuenta:
+
+    ImagenInfografica.color-acento-botones.mb-5.col-xl-8.col-lg-10.mx-auto
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/tema3/img-16.svg' alt='imagen infografica decorativa')
+
+      .tarjeta.p-3(x="63.2%" y="16.3%" numero="1" style="background-color: #FFF7E3")
+        .h5.mb-2 La presencia en Internet debe contemplarse como la apertura de una oficina comercial
+        p Los clientes actuales y los clientes potenciales pueden acceder a catálogos, ver información corporativa, resolver problemas, dar y recibir información, hacerse una idea precisa de la oferta, e incluso llegar a comprar.
+      .tarjeta.p-3(x="64%" y="55%" numero="2" style="background-color: #FFF7E3")
+        .h5.mb-2 Es un mercado global
+        p Internet permite incrementar el número de accesos e impactos, internacionalizar los contactos, y en definitiva, ser accesible a usuarios y clientes sin limitaciones geográficas.
+      .tarjeta.p-3(x="73.5%" y="91%" numero="3" style="background-color: #FFF7E3")
+        .h5.mb-2 Es un entorno donde se pueden llevar a cabo ventas directas	
+        p Este hecho supone una considerable reducción del coste de comunicación, una notable mejora de la cadena de distribución reduciendo o seleccionando mejores intermediarios, y una mayor competitividad en precios.
+      .tarjeta.p-3(x="55%" y="91%" numero="4" style="background-color: #FFF7E3")
+        .h5.mb-2 Es una red comercial que se basa en la colaboración integral	
+        p El objetivo es disponer de una red de gran alcance y capacidad, para lo que se hace preciso definir una estrategia adecuada de alianzas estratégicas y afiliaciones con terceros. 
+      .tarjeta.p-3(x="36.5%" y="91%" numero="5" style="background-color: #FFF7E3")
+        .h5.mb-2 Es un mercado altamente segmentado	
+        p Esto permite la identificación de oportunidades basadas en la segmentación por intereses (o no prioritariamente), en lugar de la segmentación por variables demográficas.
+      .tarjeta.p-3(x="28%" y="27%" numero="6" style="background-color: #FFF7E3")
+        .h5.mb-2 Es una clara ventaja competitiva
+        p La desaparición de las limitaciones basadas en la presencia física en los mercados ha contribuido, en gran medida, al aumento de competidores, pero lo que es más importante, reduce las diferencias competitivas entre grandes y pequeñas empresas. 
+
+    Separador
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_4 3.4. <em>Mobile marketing</em>
+    
+    .d-flex.flex-wrap.mb-5
+      .col-lg-6.ps-lg-4.order-2.order-lg-1
+        .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
+          p El mercadeo móvil es el área del mercadeo digital que se enfoca en el diseño, implementación y realización de acciones definidas para usuarios de dispositivos móviles.
+        p Es una verdad innegable que cada día más y más personas acceden a Internet utilizando smartphones y tabletas, por lo que se trata de segmentos de gran relevancia en el mapa de públicos. 
+      img.col-lg-6.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema3/img-17.svg" style="max-width: 610px" alt="imagen decorativa")
+
+    p.mb-5 Como se muestra en el estudio realizado para Colombia por <em>Hootsuite</em> (ver siguiente imagen), 41.8 millones de personas acceden a redes sociales vía teléfono inteligente, por lo que es muy importante tener en cuenta, dentro del plan de mercadeo digital, optimizar su presencia <em>online</em> o desarrollar nuevos activos digitales para dispositivos móviles y así garantizar que sus acciones no pierdan alcance y eficacia.
+
+    img.mb-5(src="@/assets/curso/temas/tema3/img-18.svg" alt="imagen decorativa")
+
+    p Debido a este marcado incremento del uso de dispositivos móviles, esta faceta “especializada” tiene cada vez una mayor influencia en el Customer Journey, interviniendo en fases críticas del mismo, como las búsquedas de información, consumo de videos, acceso a redes sociales y, cada vez más, realizando compras desde el dispositivo.
+
+    p.mb-5 Dentro del mobile marketing, se pueden identificar las siguientes subcategorías:
+
+    TabsC.color-primario
+      .py-3.py-md-4(titulo="Aplicaciones<br> (<em>Apps</em>)")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p Son piezas informáticas (programas) desarrolladas para ejecutarse en <em>smartphones</em> o tabletas, adaptadas a los diferentes sistemas operativos móviles: Android, iOS, <em>HarmonyOs</em>. El carácter nativo de estas aplicaciones favorece el desarrollo de una experiencia de uso personalizada para los clientes. Pero su implementación presenta varios retos, el primero es lograr que los clientes instalen la aplicación, y luego, el uso recurrente. Estos dos retos hacen necesario que, para lanzar una <em>app</em> móvil con unas mínimas garantías, el Plan de Mercadeo Digital asigne un presupuesto para su promoción.        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-19.jpg' alt='Imagen decorativa')
+      
+      .py-3.py-md-4(titulo="<em>Bluecasting</em>")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p También conocido como <em>Bluetooth marketing</em>, es un sistema que permite enviar contenidos informativos o publicitarios via Bluetooth. Se usa para enriquecer experiencias de compra o eventos, dotándolos de un componente de respuesta directa en espacios reducidos.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-20.jpg' alt='Imagen decorativa')
+      
+      .py-3.py-md-4(titulo="Campañas<br> publicitarias")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p El SEM y la publicidad <em>display</em> orientada a dispositivos móviles tienen sus propias particularidades, por lo que el desarrollo de campañas debe ser diferenciado para ser eficaz, requiriendo también una gestión especializada.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-21.jpg' alt='Imagen decorativa')
+      
+      .py-3.py-md-4(titulo="Chatbots")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p Son interfaces digitales que hacen las veces de agentes de venta y servicio. Estos <em>bots</em> simplifican la comunicación y agilizan el contacto con los leads. Y si están bien configurados, son un primer punto de contacto muy eficiente.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-22.jpg' alt='Imagen decorativa')
+
+      .py-3.py-md-4(titulo="Códigos <br>QR")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p Es un código bidimensional diseñado con una matriz de escaneo rápido de información. Permite enlazar <em>off</em> y <em>online</em>, dirigiendo tráfico desde materiales impresos hacia la web. Por su simplicidad y versatilidad, se han popularizado; hoy en día, se emplean en manejo de pagos y una gran cantidad de usos en servicio al cliente.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-23.jpg' alt='Imagen decorativa')
+
+      .py-3.py-md-4(titulo="Envíos de <br>SMS o MMS")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p Estos mensajes directos al teléfono móvil se usan para transmitir contenidos informativos o promocionales.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-24.jpg' alt='Imagen decorativa')
+
+      .py-3.py-md-4(titulo="Mobile Web")
+        .row
+          .col-md-5.mb-4.mb-md-0
+            p Las páginas web necesitan optimizarse para su correcta visualización y usabilidad en dispositivos móviles; a este concepto se le conoce como diseño responsivo o adaptativo. También el posicionamiento en buscadores no es exactamente igual que cuando se realizan búsquedas desde un PC. De hecho, Google y la mayoría de los buscadores otorgan más puntos a las páginas con diseño responsivo.
+        
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/img-25.jpg' alt='Imagen decorativa')
+
+    Separador
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_5 3.5. Email marketing
+    
+    .d-flex.flex-wrap.mb-5
+      img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema3/img-26.jpg" style="max-width: 610px" alt="imagen decorativa")
+      .col-lg-6.ps-lg-4
+        .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
+          p El <em>email marketing</em> es un correo de carácter comercial. Consiste en el envío masivo, habitual y coordinado de mensajes personalizados por correo electrónico, dirigidos a una base de datos segmentada, para realizar acciones planificadas de mercadeo.
+        p Estas bases de datos pueden ser propias (construidas con base en la actividad de la empresa y reflejan la base de clientes) o adquiridas a un tercero, lo que permite ampliar la base de clientes, pero cuya eficacia y calidad de segmentación suele ser bastante menor.
+    p Hay una regla de referencia que se conoce como la regla del 10 % - 10 % - 10 %: esto quiere decir que, sobre el total de envíos, un 10 % de los usuarios abrirá el correo. Entre este 10 % que abrió el correo, solo el 10 % hará clic en algún enlace, y entre quienes efectúan esa acción, solamente un 10 % completará una conversión/registro. 
+    p.mb-5 Esta regla es orientativa y varía dependiendo del producto o la calidad de la base de datos, pero es una buena aproximación. Observe los pasos que se deben tener en cuenta en un email marketing:
+
+    img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="imagen decorativa")
+    
+    .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
+      p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envió con un sistema CRM (Customer Relationship Management), la tarea será más sencilla. 
+      p Posteriormente, y como todo en mercadeo, medir toda la interacción de los envíos (el número de entregas efectuadas, las direcciones incorrectas, los usuarios que se han dado de baja y el número de transacciones realizadas). Entre las ventajas del email marketing, se pueden destacar:
+
+    .d-flex.flex-wrap.mb-5
+      .col-lg-6.order-2.order-lg-1.pe-lg-4.d-flex.align-items-end
+        .p-4.px-lg-5.w-100(style="background-color :#F6F6F6")
+          ul.lista-ul
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | La popularidad del email y su alcance en términos de usuarios.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Rapidez.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Bajo coste.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Calidad de segmentación.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Buena tasa de respuesta.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Medición de resultados exhaustiva y en tiempo real.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Flexibilidad de formatos.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Altos retornos de inversión.
+      img.order-1.order-lg-2.col-lg-6.col-xl-5.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema3/img-28.svg" style="max-width: 610px" alt="imagen decorativa")
+
+    p.mb-5 Estas características de los envíos masivos por correo electrónico hacen que sea muy usado en la realización de campañas comerciales y acciones de fidelización, ya que se trata de un medio que refuerza la divulgación de la imagen de marca y un excelente apoyo en la fidelización de clientes a través del contacto habitual.
+
+    .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
+      img(src="@/assets/curso/temas/tema3/img-29.svg" style="max-width: 85px" alt="imagen decorativa")
+      p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del email marketing es la creatividad; en líneas generales, un email de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
+    
+    Separador
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_6 3.6. <em>Marketing de afiliación</em>
+    
+    .d-flex.flex-wrap.mb-5
+      .col-lg-6.order-2.order-lg-1.pe-lg-4
+        p El mercadeo de afiliación es un tipo de promoción enfocado en resultados, es decir, el anunciante no paga por visualizaciones, sino por los resultados obtenidos (un registro, una descarga, una compra). A este modelo de facturación se le conoce como coste por acción (CPA).
+        p El beneficio para el anunciante es obvio: solo paga si obtiene resultados. Y de su parte, el afiliado enfoca su esfuerzo en dirigir tráfico altamente cualificado a sus páginas web, blogs o redes sociales para maximizar las conversiones. Para este fin, el anunciante pondrá a disposición de sus afiliados enlaces y banners con códigos personalizados que permiten identificar a los afiliados y medir su rentabilidad; además, se requiere una implementación tecnológica adecuada, ya que los resultados deben ser registrados, contabilizados y asignados a cada afiliado, para saber quién fue el generador de la conversión. 
+      img.order-1.order-lg-2.col-lg-6.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema3/img-30.jpg" style="max-width: 610px" alt="imagen decorativa")
+
+    p.mb-5 Observe la siguiente información, que aclara un poco, a través de un ejemplo, cómo funciona este tipo de <em>marketing</em>:
+
+    .container-100.px-0.mb-5
+      img(src="@/assets/curso/temas/tema3/img-31.svg" alt="imagen decorativa")
+    
+    p.mb-5 En ese orden de ideas, existen dos posibilidades para desarrollar un programa de afiliados: 
+
+    .tarjeta--container.row.mb-5.col-xl-10.mx-auto
+      .col-md.tarjeta.color-primario.p-5(style="background-color: #F8D294")
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema3/img-32.svg' alt='Imagen decorativa')
+        p Que la plataforma tecnológica que controla el programa de afiliados sea provista por el anunciante, bien sea un desarrollo propio o un servicio de pago mensual. De hecho, puede que el programa de comercio electrónico que haya contratado para desarrollar su web ya incluya esta funcionalidad.
+      .col-md.tarjeta.color-primario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/temas/tema3/img-33.svg' alt='Imagen decorativa')
+        p La segunda opción es que la plataforma sea provista por una red intermediaria entre anunciantes y afiliados. Hay varias redes especializadas, es posible mencionar <em>TradeDoubler, Netfilia</em>, aunque sus precios y mantenimiento sean más elevados y queden reservados a empresas de tamaño medio y grande. 
+    p.mb-5 Las redes de afiliación ofrecen los siguientes servicios a los anunciantes:
+
+    .d-flex.flex-wrap.mb-5
+      img.col-lg-6.col-xl-5.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema3/img-34.svg" style="max-width: 610px" alt="imagen decorativa")
+      .col-lg-6.pe-lg-4.d-flex.align-items-end
+        .p-4.px-lg-5.w-100(style="background-color :#F6F6F6")
+          ul.lista-ul
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Administración del programa de afiliación.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Asesoría para la gestión de la campaña.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Tecnología independiente para asignación y control de las conversiones.
+            li.d-flex.mb-0
+              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+              | Gestión de la base de datos de afiliados para el programa.
+    p Existen redes de afiliación especializadas en solo un tipo de campañas y otras generales que trabajan todo tipo de modelos. Lo realmente importante es que el anunciante elija una red que se adapte a sus necesidades en función del tipo de campaña que vaya a desarrollar (CPL, CPA, etc.) y la afinidad con los distintos tipos de captación adecuados a su producto o servicio (SEM, <em>email marketing, display</em>, etc.).
 </template>
 
 <script>
