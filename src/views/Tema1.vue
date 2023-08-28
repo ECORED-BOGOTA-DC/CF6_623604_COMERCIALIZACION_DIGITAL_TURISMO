@@ -126,47 +126,102 @@
       p Adicionalmente, después de revisar el entorno, las tendencias de crecimiento y alineando el objetivo del canal digital con el objetivo general de ventas, este podría ser: <em>“Aumentar las ventas del canal web en 10 %, manteniendo la reinversión del 3 % de las ventas”</em>. 
       p.mb-0 En el caso de los objetivos específicos, es necesario tener en cuenta que el entorno digital es cambiante. Por este motivo, para ajustar la estructura del plan de mercadeo digital a los requerimientos propios, es conveniente agrupar esos objetivos en categorías, de la siguiente manera:
 
-    .d-flex.flex-wrap.mb-4
-      .col-lg-6.pe-lg-2
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-5.jpg" style="max-width: 610px" alt="imagen decorativa")
-      .col-12.col-lg-6.ps-lg-2.d-flex
-        .tarjeta.p-4.w-100(style="background-color: #DBEDF8")
-          img.mb-4(src="@/assets/curso/temas/tema1/img-6.svg" style="max-width: 210px" alt="imagen decorativa")
-          ul.lista-ul
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Comunicar las ventajas del producto frente a otras alternativas.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Eliminar prejuicios sobre el producto.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Robustecer los argumentos de venta.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Resaltar la imagen de marca.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Solucionar dudas y quejas sobre el producto.
-    .d-flex.flex-wrap.mb-5
-      .col-12.col-lg-6.pe-lg-2.order-2.order-lg-1.d-flex
-        .tarjeta.p-4.w-100(style="background-color: #DBEDF8")
-          img.mb-4(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 210px" alt="imagen decorativa")
-          ul.lista-ul
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              p.mb-0 Cuidar y mejorar la reputación <em>online</em> sobre el producto, la oferta y la marca.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Incrementar las cuotas de mercado.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Generar tráfico hacia la web.
-            li.d-flex.mb-0
-              .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              p.mb-0 Impulsar técnicas como <em>upselling, cross selling</em> y nuevas ventas a través de la difusión del catálogo.
-      .col-lg-6.order-1.order-lg-2.pe-lg-2
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-5.jpg" style="max-width: 610px" alt="imagen decorativa")
+    .row.mb-4
+      .col-md-6.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false" style="background-color: #DBEDF8")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-5.jpg')})`}"
+              style="background-size: cover"
+            )
+            .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
+              img.mb-4(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 255px" alt="imagen decorativa")
+              ul.lista-ul
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Ampliar la resonancia comunicativa con la ayuda de los empleados.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Cautivar al cliente de la competencia.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Generar comentarios positivos y difundirlos en diferentes canales.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Estimular el interés en el producto o servicio aumentando los <em>leads</em>.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Recordar al cliente que puede revivir la experiencia.
+      .col-md-6.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false" style="background-color: #DBEDF8")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
+              img.mb-4(src="@/assets/curso/temas/tema1/img-6.svg" style="max-width: 255px" alt="imagen decorativa")
+              ul.lista-ul
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Comunicar las ventajas del producto frente a otras alternativas.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Eliminar prejuicios sobre el producto.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Robustecer los argumentos de venta.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Resaltar la imagen de marca.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Solucionar dudas y quejas sobre el producto.
+            .tarjeta-slide__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7.jpg')})`}"
+              style="background-size: cover"
+            )
+    
+    .row.mb-5
+      .col-md-6.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false" style="background-color: #DBEDF8")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7_1.jpg')})`}"
+              style="background-size: cover"
+            )
+            .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
+              img.mb-4(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 210px" alt="imagen decorativa")
+              ul.lista-ul
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  p.mb-0 Cuidar y mejorar la reputación <em>online</em> sobre el producto, la oferta y la marca.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Incrementar las cuotas de mercado.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Generar tráfico hacia la web.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  p.mb-0 Impulsar técnicas como <em>upselling, cross selling</em> y nuevas ventas a través de la difusión del catálogo.
+      .col-md-6.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false" style="background-color: #DBEDF8")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
+              img.mb-4(src="@/assets/curso/temas/tema1/img-8.svg" style="max-width: 255px" alt="imagen decorativa")
+              ul.lista-ul
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Fomentar la creación de comunidades, para mantener una comunicación fluida con los clientes y mantener el vínculo emocional.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Generar ventas repetitivas.
+                li.d-flex.mb-0
+                  .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
+                  | Optimizar la atención al cliente para incrementar su satisfacción.
+            .tarjeta-slide__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-8.jpg')})`}"
+              style="background-size: cover"
+            )
     
     .mb-5.pt-5
       div(style="background-color: #FFB338; border-top-right-radius: 60px")
@@ -345,7 +400,7 @@ export default {
   name: 'Tema1',
   components: { SlyderF },
   data: () => ({
-    // variables de vue
+    indicadorTarjetaSlide: true,
   }),
   mounted() {
     this.$nextTick(() => {

@@ -10,14 +10,14 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 Estructuración de un plan de mercadeo.
+        p.mb-4 Identificar los diferentes conceptos que se manejan en la estructuración de un plan de mercadeo para atender todas las acciones de promoción en el ámbito digital de un emprendimiento o negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Cuestionario
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank" style="background-color: #FFCD0D")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
