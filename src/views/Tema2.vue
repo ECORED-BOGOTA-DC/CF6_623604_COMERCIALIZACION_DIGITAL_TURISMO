@@ -3,9 +3,9 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 2
-      h1 Planificación y estrategia en el plan de mercadeo
+      h1(data-aos="fade-left") Planificación y estrategia en el plan de mercadeo
     
     .col-xl-10.mx-auto.d-flex.flex-wrap.align-items-center.p-4.mb-5(style="background-color: #F3F9FF; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema2/img-1.svg" style="max-width: 85px" alt="imagen decorativa")

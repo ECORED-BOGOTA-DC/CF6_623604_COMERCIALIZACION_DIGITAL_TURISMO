@@ -3,9 +3,9 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 4
-      h1 Titulo de primer nivel
+      h1(data-aos="fade-left") Titulo de primer nivel
 
     .mb-5.pt-5
       div(style="background-color: #FFB338; border-top-right-radius: 60px")

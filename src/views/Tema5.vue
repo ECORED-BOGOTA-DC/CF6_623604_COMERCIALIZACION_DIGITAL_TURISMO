@@ -3,9 +3,9 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 5
-      h1 Titulo de primer nivel
+      h1(data-aos="fade-left") Titulo de primer nivel
 
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema5/img-1.svg" style="max-width: 610px" alt="imagen decorativa")
