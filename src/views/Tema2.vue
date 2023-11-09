@@ -9,11 +9,11 @@
     
     .col-xl-10.mx-auto.d-flex.flex-wrap.align-items-center.p-4.mb-5(style="background-color: #F3F9FF; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema2/img-1.svg" style="max-width: 85px" alt="imagen decorativa")
-      p.col-md.mb-0.ps-md-4 Como su nombre lo indica, el <em>plan de mercadeo</em> es un documento que resume la planeación de las estrategias de mercadeo. En este esquema, se orientan acciones que se llevarán a cabo para cumplir las estrategias. El plan, a su vez, está ligado a la planeación táctica de la empresa.
+      p.col-md.mb-0.ps-md-4 Como su nombre lo indica, el <b>plan de mercadeo</b> es un documento que resume la planeación de las estrategias de mercadeo. En este esquema, se orientan acciones que se llevarán a cabo para cumplir las estrategias. El plan, a su vez, está ligado a la planeación táctica de la empresa.
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_2_1 2.1.  Estrategia
+      h2#t_2_1 2.1 Estrategia
     
     .d-flex.flex-wrap.mb-5
       .col-lg-6.order-2.order-lg-1.pe-lg-4
@@ -46,7 +46,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_2_2 2.2. Método POST
+      h2#t_2_2 2.2 Método POST
     
     p.mb-5 Este método, que fue propuesto por la firma norteamericana de mercadotecnia Forrester Research, es el más utilizado para planificar la estrategia de cara a la web social. POST es el acrónimo de:
 
@@ -84,7 +84,7 @@
               img.mx-auto(src='@/assets/curso/temas/tema2/img-4.svg' style="max-width: 493px")
         .row.justify-content-center.align-items-start.py-5
           .col-lg-6.mb-4.mb-lg-0.pt-4.pt-0.position-relative
-              h4.ps-4 Objetivos
+              h4.ps-4 <em>Objectives</em> (Objetivos)
               p.ps-4.mb-0 Después de determinar el grupo objetivo, es necesario definir objetivos cualitativos o cuantitativos para todos los participantes del proyecto. Hay tres preguntas importantes que se deben responder: ¿qué recursos y canales se utilizan?, ¿qué métricas se utilizan como referencia para medir los resultados?, ¿qué tipo de datos tiene? Defina los recursos y canales a coordinar, para que el responsable de estas áreas pueda coordinar. 
           .col-6.col-lg-6
             figure
@@ -118,7 +118,7 @@
         .row.justify-content-center.align-items-start.py-5
           .col-lg-6.mb-4.mb-lg-0.pt-4.pt-0.position-relative
               h4.ps-4 <em>Technology</em> (Tecnología)
-              p.ps-4 El paso final para iniciar un programa de personalización es elegir la tecnología y las herramientas adecuadas. Se pueden utilizar plataformas públicas o publicitarias en redes sociales como Facebook y Twitter, sus propias páginas web o simples blogs abiertos en redes de bloggers. en este punto, se debe tener cuidado al evaluar a los proveedores de tecnología. 
+              p.ps-4 El paso final para iniciar un programa de personalización es elegir la tecnología y las herramientas adecuadas. Se pueden utilizar plataformas públicas o publicitarias en redes sociales como Facebook y Twitter, sus propias páginas web o simples blogs abiertos en redes de <em>bloggers</em>. En este punto, se debe tener cuidado al evaluar a los proveedores de tecnología. 
 
               p.ps-4.mb-0 La tecnología elegida puede no estar actualizada, puede ser descontinuada en un corto periodo de tiempo y su proyecto puede ser reorganizado en otra plataforma. Un punto clave es que debe ser compatible con todos los canales y puntos de contacto. Esto es esencial para poner en marcha este proyecto mediante la inversión de tiempo y recursos valiosos, y en los próximos años, finalmente se podrá ver en tecnología obsoleta.
 
@@ -127,7 +127,6 @@
               img.mx-auto(src='@/assets/curso/temas/tema2/img-9.svg' style="max-width: 485px")
     
     .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
-      p El paso final para iniciar un programa de personalización es elegir la tecnología y las herramientas adecuadas; se pueden utilizar plataformas públicas o publicitarias en redes sociales como Facebook y Twitter, sus propias páginas web o simples blogs abiertos en redes de bloggers. En este punto, se debe tener cuidado al evaluar a los proveedores de tecnología. La tecnología elegida puede no estar actualizada, puede ser descontinuada en un corto periodo de tiempo y su proyecto puede ser reorganizado en otra plataforma. Un punto clave es que debe ser compatible con todos los canales y puntos de contacto. Esto es esencial para poner en marcha este proyecto mediante la inversión de tiempo y recursos valiosos, y en los próximos años, finalmente se podrá ver en tecnología obsoleta.
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-10.jpg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
@@ -141,7 +140,7 @@
         .d-flex.flex-wrap
           .col-lg.pe-lg-4.order-2.order-lg-1
             p El primer paso para una estrategia exitosa es el análisis y segmentación del público objetivo de acuerdo con el perfil tecno-gráfico (comportamiento). Este enfoque debe permitir identificar los hábitos y motivaciones de nuestro público objetivo, para ser capaces de diseñar una experiencia de usuario capaz de satisfacer sus expectativas. 
-            p.mb-0 Es productivo priorizar aquellos segmentos que tienen mayor aporte a la rentabilidad, ya que eso significa identificar a los usuarios más activos y dispuestos a colaborar con la marca. En esta labor, el benchmarking es un gran aliado, al permitirnos aprender de los aciertos y errores de la competencia.
+            p.mb-0 Es productivo priorizar aquellos segmentos que tienen mayor aporte a la rentabilidad, ya que eso significa identificar a los usuarios más activos y dispuestos a colaborar con la marca. En esta labor, el <em>benchmarking</em> es un gran aliado, al permitirnos aprender de los aciertos y errores de la competencia.
           img.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-11.svg" style="max-width: 313px" alt="imagen decorativa")
       
       .tarjeta.color-acento-botones.p-4(titulo="Objetivos" style="background-color: #FFF3D6")
@@ -184,7 +183,7 @@
       .tarjeta.color-acento-botones.p-4(titulo="Tecnología" style="background-color: #FFF3D6")
         .d-flex.flex-wrap
           .col-lg.pe-lg-4.order-2.order-lg-1
-            p.mb-0 Una vez que conocemos a nuestro target, hemos establecido el objetivo que perseguimos y definido la estrategia para alcanzarlo, llega el momento de pensar en los medios que utilizaremos para realizarlo. Solo tras concluir los pasos anteriores, estaremos en condiciones de valorar cuál es la mejor opción tecnológica entre las disponibles para ejecutar nuestra estrategia, decidiendo, por ejemplo, qué redes sociales constituirán la mejor vía para llegar a nuestro público objetivo (¿Facebook o LinkedIn?).
+            p.mb-0 Una vez que conocemos a nuestro <em>target</em>, hemos establecido el objetivo que perseguimos y definido la estrategia para alcanzarlo, llega el momento de pensar en los medios que utilizaremos para realizarlo. Solo tras concluir los pasos anteriores, estaremos en condiciones de valorar cuál es la mejor opción tecnológica entre las disponibles para ejecutar nuestra estrategia, decidiendo, por ejemplo, qué redes sociales constituirán la mejor vía para llegar a nuestro público objetivo (¿Facebook o LinkedIn?).
           img.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-15.svg" style="max-width: 313px" alt="imagen decorativa")
     
     p.mb-5 En definitiva, esta metodología facilita la tarea de identificar y satisfacer las expectativas y preferencias de su público, a la vez que exige alinear coherentemente cada uno de los elementos que componen su plan de acción. También es importante documentar, en el plan de mercadeo digital, cada una de las acciones, de forma clara y precisa, concretando la siguiente información:

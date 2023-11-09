@@ -14,11 +14,11 @@
           p Antes de iniciar esta temática, debe responder las siguientes preguntas, que son cruciales para enfocarse en lograr resultados: ¿Para qué está haciendo esto? ¿Cuáles son sus objetivos específicos? ¿Qué es lo que quiere lograr con este plan? Se debe tener claro el marco de referencia, de modo que formular los objetivos debe conducir al logro de la misión y expresar lo que la empresa quiere; para ello, es importante plantear objetivos bajo el método SMART, que ayudarán a que sean específicos, medibles, alcanzables, relevantes y ubicados temporalmente.
     figure.col-xl-10.mx-auto(data-aos="fade")
       img.mb-4(src='@/assets/curso/temas/tema1/img-2.svg' alt='imagen decorativa')
-      figcaption Fuente: <em>Social Analytics Frameworks de John Lovett</em>.
+      figcaption Fuente: Social Analytics Frameworks de John Lovett.
     
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1. Objetivos en el plan de mercadeo digital
+      h2#t_1_1 1.1 Objetivos en el plan de mercadeo digital
     
     p.mb-5(data-aos="fade-right") Para iniciar esta parte, es prudente mencionar que, para tener éxito en el desarrollo e implementación del plan de mercadeo digital, los objetivos de este deben estar alineados con los objetivos estratégicos de la marca/emprendimiento o empresa a nivel general. Para lograr esto, el método más certero es partir de los objetivos de negocio y “traducirlos” en objetivos digitales que aporten al logro de los objetivos generales. 
       br
@@ -116,14 +116,14 @@
               br
               |Ventas OTA 38 %
               br
-              |Ventas Equipo Comercial 28 %
+              |Ventas equipo comercial 28 %
 
           td.fw-bold(style="background-color: #91B27B") Media de aumento de ventas últimos 5 años web 18.5 %
         tr
           td(style="background-color: #ADC8AB") Reinversión de ventas en canal web 3 %
 
     .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
-      p(data-aos="fade-right") Adicionalmente, después de revisar el entorno, las tendencias de crecimiento y alineando el objetivo del canal digital con el objetivo general de ventas, este podría ser: <em>“Aumentar las ventas del canal web en 10 %, manteniendo la reinversión del 3 % de las ventas”</em>. 
+      p(data-aos="fade-right") Adicionalmente, después de revisar el entorno, las tendencias de crecimiento y alineando el objetivo del canal digital con el objetivo general de ventas, este podría ser: <em>“Aumentar las ventas del canal web el 10 %, manteniendo la reinversión del 3 % de las ventas”</em>. 
       p.mb-0(data-aos="fade-right") En el caso de los objetivos específicos, es necesario tener en cuenta que el entorno digital es cambiante. Por este motivo, para ajustar la estructura del plan de mercadeo digital a los requerimientos propios, es conveniente agrupar esos objetivos en categorías, de la siguiente manera:
 
     .row.mb-4
@@ -148,7 +148,7 @@
                   | Generar comentarios positivos y difundirlos en diferentes canales.
                 li.d-flex.mb-0
                   .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-                  | Estimular el interés en el producto o servicio aumentando los <em>leads</em>.
+                  p.mb-0 Estimular el interés en el producto o servicio aumentando los <em>leads</em>.
                 li.d-flex.mb-0
                   .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
                   | Recordar al cliente que puede revivir la experiencia.
@@ -226,7 +226,7 @@
     .mb-5.pt-5
       div(style="background-color: #FFB338; border-top-right-radius: 60px")
         .d-flex.flex-wrap.align-items-center.col-xl-11.mx-auto.p-4.p-lg-0
-          p.col-lg.ps-lg-4.pe-lg-5.mb-0.order-2.order-lg-1 En conclusión, es posible afirmar que el establecimiento de objetivos debe obedecer a un análisis congruente con la realidad, que no deben generarse de forma aislada y, por tanto, se debe partir de un objetivo general prioritario, que, en el caso del ejemplo, sería el aumento general de ventas del 17 %; para posteriormente dividir este objetivo en metas secundarias medibles y realizables, que, para el caso en cuestión y en relación con el ámbito digital, sería <b><em>“Aumentar las ventas del canal web en 10 %, manteniendo la reinversión del 3 % de las ventas”</em></b>.
+          p.col-lg.ps-lg-4.pe-lg-5.mb-0.order-2.order-lg-1 En conclusión, es posible afirmar que el establecimiento de objetivos debe obedecer a un análisis congruente con la realidad, que no deben generarse de forma aislada y, por tanto, se debe partir de un objetivo general prioritario, que, en el caso del ejemplo, sería el aumento general de ventas del 17 %; para posteriormente dividir este objetivo en metas secundarias medibles y realizables, que, para el caso en cuestión y en relación con el ámbito digital, sería <b><em>“Aumentar las ventas del canal web el 10 %, manteniendo la reinversión del 3 % de las ventas”</em></b>.
           img.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-9.png" style="max-width: 336px; margin-top: -5%" alt="imagen decorativa")
 
     p Básicamente, se puede decir que un objetivo es una métrica que permite realizar el seguimiento de la progresión de una acción social de cara a alcanzar la meta propuesta al comienzo del proyecto; estos pueden ser cualitativos o cuantitativos y permiten valorar positiva o negativamente los resultados de las decisiones estratégicas y tácticas. 
@@ -258,7 +258,7 @@
         h4.text-regular Las grandes mentes tienen objetivos, los demás, deseos.
         i.fas.fa-quote-right.ms-2(style="color: #B1DE19; font-size: 28px")
       .bloque-texto-f__autor.mb-3
-        h3.mb-0 <em>Washington Irving</em>
+        h3.mb-0 Washington Irving
       .bloque-texto-f__avatar
         .bloque-texto-f__avatar__img(style="background-color: transparent; border-color: transparent; box-shadow: none")
           img(src='@/assets/curso/temas/tema1/img-11.png' alt='imagen decorativa')
@@ -276,7 +276,7 @@
               | Publicar más contenido en todas las redes.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Generar más leads para enviar información.
+              | Generar más <em>leads</em> para enviar información.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Ampliar la base de datos de correos electrónicos.
@@ -286,16 +286,16 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_1_2 1.2. Indicadores claves de desempeño (KPI)
+      h2#t_1_2 1.2 Indicadores claves de desempeño (KPI)
     
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-13.jpg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
         .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
           p Los Indicadores clave del desempeño, o KPI, son ratios que están ligados a los objetivos y que ayudan a definir y medir el desarrollo del emprendimiento o empresa. Por tal motivo, para establecer correctamente los KPI, es necesario partir de un análisis de la empresa y conocer sus funciones en profundidad para lograr identificar las variables críticas en la evolución general del negocio. 
-        p Los Indicadores clave del desempeño, o KPI, son ratios que están ligados a los objetivos y que ayudan a definir y medir el desarrollo del emprendimiento o empresa. Por tal motivo, para establecer correctamente los KPI, es necesario partir de un análisis de la empresa y conocer sus funciones en profundidad para lograr identificar las variables críticas en la evolución general del negocio. 
+        p Una vez identificadas las variables que se consideren importantes, se debe determinar si estas pueden medirse cuantitativamente, evaluando si la recolección de dichos datos es eficiente en términos de tiempo o dinero. Luego de este primer filtro, se podrán descartar las variables que no sean medibles o aquellas que requieran una inversión demasiado alta para poder establecerse.
 
-        p De acuerdo con Dennis Mortensen, uno de los líderes mundiales en temas de analítica, un KPI debe tener las siguientes características:
+    p.mb-5 De acuerdo con Dennis Mortensen, uno de los líderes mundiales en temas de analítica, un KPI debe tener las siguientes características:
 
     .d-flex.flex-wrap.mb-5
       .col-lg-6.col-xl-5.col-xxl-4.ps-lg-4.order-2.order-lg-1
@@ -330,7 +330,7 @@
             | <em>Conducir la acción”.</em>
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto.ms-lg-0.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-14.svg" style="max-width: 610px" alt="imagen decorativa")
 
-    p.mb-5 Mortensen afirma que, si no se cumplen, estos parámetros son simples métricas y no indicadores. (Merkle Incorporated, 2020)
+    p.mb-5 Mortensen afirma que, si no se cumplen, estos parámetros son simples métricas y no indicadores (Merkle Incorporated, 2020).
 
     .container-100.d-flex.flex-wrap.align-items-center.py-4.mb-5(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema1/img-15.svg" style="max-width: 85px" alt="imagen decorativa")
@@ -350,7 +350,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p Estimado aprendiz, si desea complementar sus conocimientos sobre este tema, lo invitamos a que consulte el libro: The Big Book of the Key Performance indicators - Jason Burby
+              p Estimado aprendiz, si desea complementar sus conocimientos sobre este tema, lo invitamos a que consulte el libro: <em>The Big Book of the Key Performance indicators</em> - Jason Burby
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                 span Ingresar 
@@ -358,7 +358,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_1_3 1.3.  Medición y analítica de resultados
+      h2#t_1_3 1.3 Medición y analítica de resultados
     
     .d-flex.flex-wrap.container-100.py-5(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
       .col-lg-6.pe-lg-4.order-2.order-lg-1
@@ -378,13 +378,13 @@
               | Confirmar que los canales de comunicación elegidos estén optimizados, en términos de diseño, funcionalidad y usabilidad.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Evaluar la aceptación y difusión del contenido publicado, confirmando que la estrategia editorial es acertada y no requiere ajustes. 
+              | Evaluar la aceptación y difusión del contenido publicado, confirmando que la estrategia editorial es acertada y no requiere ajustes.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Identificar las temáticas y tipologías de contenido más leídas, compartidas y comentadas.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Revisar cuál es el nivel de conversación entre la marca y los usuarios, y cómo esa conversación influye en la reputación <em>online</em>.
+              p.mb-0 Revisar cuál es el nivel de conversación entre la marca y los usuarios, y cómo esa conversación influye en la reputación <em>online</em>.
       img.order-1.order-lg-2.col-lg-6.col-xl-5.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema1/img-19.svg" style="max-width: 505px" alt="imagen decorativa")
 
     p Recuerde que la medición debe brindar herramientas para la toma de decisiones a corto plazo que naturalmente impactan el desempeño de largo plazo, y así impulsar la competitividad de la organización.

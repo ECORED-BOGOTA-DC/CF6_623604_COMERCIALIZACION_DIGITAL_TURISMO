@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 5
-      h1(data-aos="fade-left") Titulo de primer nivel
+      h1(data-aos="fade-left") Presupuesto de <em>marketing online</em>
 
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema5/img-1.svg" style="max-width: 610px" alt="imagen decorativa")
@@ -91,14 +91,14 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_5_1 5.1. ¿Qué debe tener en cuenta al calcular un presupuesto de mercadeo?
+      h2#t_5_1 5.1 ¿Qué debe tener en cuenta al calcular un presupuesto de mercadeo?
     
     .d-flex.flex-wrap.mb-5
       .col-lg-6.order-2.order-lg-1.pe-lg-4.d-flex.align-items-end
         .p-4.px-lg-5.w-100
           p Esta pregunta en sí misma es compleja, al querer saber cuánto se puede o se debe destinar al mercadeo de una organización. 
 
-          p Partiendo de la base de que cada empresa es diferente en sí misma, para intentar contestar esta pregunta, diferentes estudios proponen, en primer lugar, hacer una diferenciación según el tamaño de la empresa y considerar aspectos como la naturaleza del negocio, el comportamiento del público objetivo, el proceso de compra y el comportamiento de la competencia. Posteriormente, elaborar un plan de mercadeo, que debe valorar el momento de la empresa, el mercado y el contexto socioeconómico. Dicho esto, no es lo mismo presupuestar recursos de mercadeo para una empresa que acaba de nacer o que acaba de comenzar su camino online que para una empresa con un recorrido hecho.
+          p Partiendo de la base de que cada empresa es diferente en sí misma, para intentar contestar esta pregunta, diferentes estudios proponen, en primer lugar, hacer una diferenciación según el tamaño de la empresa y considerar aspectos como la naturaleza del negocio, el comportamiento del público objetivo, el proceso de compra y el comportamiento de la competencia. Posteriormente, elaborar un plan de mercadeo, que debe valorar el momento de la empresa, el mercado y el contexto socioeconómico. Dicho esto, no es lo mismo presupuestar recursos de mercadeo para una empresa que acaba de nacer o que acaba de comenzar su camino <em>online</em> que para una empresa con un recorrido hecho.
       img.order-1.order-lg-2.col-lg-6.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema5/img-8.jpg" style="max-width: 610px" alt="imagen decorativa")
 
     .d-flex.mb-5
@@ -114,11 +114,11 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_5_2 5.2. Cinco pasos para preparar el presupuesto de mercadeo
+      h2#t_5_2 5.2 Cinco pasos para preparar el presupuesto de mercadeo
     
     p.mb-5 Ahora que se tienen valores de referencia de acuerdo con el tipo de empresa, observe los pasos a seguir para construir un presupuesto de mercadeo:
 
-    h3.mb-5 1. Conocer al buyer persona y verificar el embudo de venta
+    h3.mb-5 1. Conocer al <em>buyer</em> persona y verificar el embudo de venta
 
     .bloque-texto-g.p-3.p-sm-4.p-md-5.mb-5(style="background-color: #3D672F")
       .bloque-texto-g__img(
@@ -182,7 +182,7 @@
 
     .d-flex.flex-wrap.mb-5.align-items-end
       .col-lg-6.order-2.order-lg-1.pe-lg-4
-        p.mb-4 Una vez asignadas las partidas de inversión en mercadeo y de saber cuáles son prioritarias para la compañía, hay que evaluar si se dispone del staff necesario para llevar este plan a cabo. Preguntas como:
+        p.mb-4 Una vez asignadas las partidas de inversión en mercadeo y de saber cuáles son prioritarias para la compañía, hay que evaluar si se dispone del <em>staff</em> necesario para llevar este plan a cabo. Preguntas como:
         .p-4.px-lg-5.w-100(style="background-color :#F6F6F6")
           ul.lista-ul.mb-0
             li.d-flex.mb-0

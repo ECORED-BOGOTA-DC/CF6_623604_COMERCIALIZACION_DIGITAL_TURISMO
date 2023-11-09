@@ -11,29 +11,29 @@
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema3/img-1.jpg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
         p A partir de este momento, el plan de mercadeo digital comienza a dar el paso de planificación a la acción. Es aquí donde se empiezan a ejecutar acciones <em>online</em> que impactarán a su público objetivo, pero antes de dar este paso, tenga en cuenta algunas pautas importantes.
-        p.mb-0 En primer lugar, es relevante recordar que el <b>mercadeo es social</b>. Nunca en la historia, esta disciplina había tenido un componente humano tan superlativo. Hoy en día, como se puede percibir fácilmente, el mercadeo, a la par con la tecnología, obliga a ser sociales, a interactuar con personas y a saber que las personas funcionan de manera muy concreta al estar sometidas a un entorno sobreexpuesto a la información.
+        p En primer lugar, es relevante recordar que el <b>mercadeo es social</b>. Nunca en la historia, esta disciplina había tenido un componente humano tan superlativo. Hoy en día, como se puede percibir fácilmente, el mercadeo, a la par con la tecnología, obliga a ser sociales, a interactuar con personas y a saber que las personas funcionan de manera muy concreta al estar sometidas a un entorno sobreexpuesto a la información.
 
         .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
-          p Otra de las características que se debe tener en cuenta es el cambio. Al ser de naturaleza social, el mercadeo cambia, y en ese sentido, una empresa se comporta igual, ya que, al estar inmersa en el entorno social, cambia.
+          p Otra de las características que se debe tener en cuenta es el cambio. Al ser de naturaleza social, el <b>mercadeo cambia</b>, y en ese sentido, una empresa se comporta igual, ya que, al estar inmersa en el entorno social, cambia.
     p En este momento, el mercadeo, las empresas, las personas y la información evolucionan. Cambian con las estaciones del año, con los días de la semana, con las horas del día, cambian de forma, y en este proceso, se acopian nuevas experiencias, que permiten a las empresas modificar la forma de comunicarse con sus “clientes”.
 
     p Con esto en mente, puede dirigirse a conocer esas acciones que puede contener un plan de mercadeo <em>online</em>.
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_1 3.1. <em>Marketing</em> de contenidos
+      h2#t_3_1 3.1 <em>Marketing</em> de contenidos
 
     .d-flex.flex-wrap.mb-5
       img.col-lg-5.mb-4.mb-lg-auto.mx-auto.me-xl-0(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
         p Los contenidos son la piedra angular de todo el mercadeo y la comunicación digital. El contenido es el principal valor que una marca o empresa puede transmitir en los canales digitales. Además, por su propia naturaleza, permite establecer una interacción regular y segmentar al público de forma eficaz. Dentro de las industrias turísticas, esto tiene especial relevancia, ya que, en el contenido, recae en gran medida el poder vender.
-        p.mb-0 Por lo tanto, el contenido no debe dejarse al azar, ya que se trata de un poderoso instrumento, que le servirá para atraer al público hacia la oferta de valor de su empresa, conseguir su atención, viralizar sus mensajes y fidelizar a sus clientes y prospectos.
+        p.mb-0 Por lo tanto, el contenido no debe dejarse al azar, ya que, se trata de un poderoso instrumento, que le servirá para atraer al público hacia la oferta de valor de su empresa, conseguir su atención, viralizar sus mensajes y fidelizar a sus clientes y prospectos.
 
     .container-100.d-flex.flex-wrap.align-items-center.py-4.mb-5(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema3/img-3.svg" style="max-width: 85px" alt="imagen decorativa")
-      p.col-md.mb-0.ps-md-4 Brian Solís, uno de los grandes gurús del Social Media en Estados Unidos, habla de “<b>objetos sociales</b>”, en su artículo “<em>Social Media’s Critical Path: Relevance to Resonance to Significance</em>”. (Solis, 2010).
+      p.col-md.mb-0.ps-md-4 Brian Solís, uno de los grandes gurús del <em>Social Media</em> en Estados Unidos, habla de “<b>objetos sociales</b>”, en su artículo “<em>Social Media’s Critical Path: Relevance to Resonance to Significance</em>”. (Solis, 2010).
 
-    p.mb-5 Los define como la unidad básica del <em>Social Media</em> y los considera catalizadores de las conversaciones y la construcción de relaciones sólidas con su público, indicando que pueden tener la forma de un tweet, post, update, video, imagen, etc., compartido en un canal social. Obviamente, se sigue hablando de contenidos.
+    p.mb-5 Los define como la unidad básica del <em>Social Media</em> y los considera catalizadores de las conversaciones y la construcción de relaciones sólidas con su público, indicando que pueden tener la forma de un <em>tweet, post, update</em>, video, imagen, etc., compartido en un canal social. Obviamente, se sigue hablando de contenidos.
 
     .tarjeta.color-primario.p-3.col-xl-10.mx-auto.mb-5
       .row.justify-content-around.align-items-center
@@ -91,10 +91,10 @@
               | Aplicaciones.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Artículos (posts).
+              | Artículos (<em>posts</em>).
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Audios y podcasts.
+              | Audios y <em>podcasts</em>.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Fotografías e ilustraciones.
@@ -106,7 +106,7 @@
               p.mb-0 Infografías.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              p.mb-0 Informes y white papers.
+              p.mb-0 Informes y <em>white papers</em>.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               p.mb-0 Presentaciones.
@@ -115,16 +115,16 @@
               p.mb-0 Videos y videojuegos.
       img.order-1.order-lg-2.col-lg-6.mb-4.mb-lg-auto.mx-auto.ms-xl-0(src="@/assets/curso/temas/tema3/img-5.jpg" style="max-width: 610px" alt="imagen decorativa")
 
-    p.mb-5 Si bien todas las tipologías de contenido son importantes, el texto es el elemento principal de cualquier sitio web y el principal vehículo de comunicación en las redes sociales. Dentro del argot del mercadeo, a los textos utilizados en la comunicación digital se les conoce como “copy”.
+    p.mb-5 Si bien todas las tipologías de contenido son importantes, el texto es el elemento principal de cualquier sitio web y el principal vehículo de comunicación en las redes sociales. Dentro del argot del mercadeo, a los textos utilizados en la comunicación digital se les conoce como “<em>copy</em>”.
 
     .bloque-texto-g.p-3.p-sm-4.p-md-5.mb-5(style="background-color: #3D672F")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-6.jpg')})`}"
         style="background-repeat: no-repeat; background-position: right;"
       )
-      .bloque-texto-g__texto.p-4
-        p Los contenidos como el video online o los videojuegos cada día ganan más relevancia por su eficacia y potencial comunicativo. Pero más allá de que sea uno u otro, en la generación de contenidos, la clave del éxito está en orientar la producción del contenido a satisfacer las expectativas y necesidades del público objetivo.
-        p.mb-0 Es por esta razón que, para alcanzar sus objetivos, será necesario que el Plan Editorial, recogido en el Plan de Mercadeo Digital, contemple todos los segmentos de público relevante, desarrollando contenidos adecuados para cada uno de ellos y optimizándolos para ser relevantes en cada uno de los momentos de interacción críticos identificados en el <em>Customer Journey Map</em>. 
+      .bloque-texto-g__texto.p-4.d-block
+        p.d-block Los contenidos como el video <em>online</em> o los videojuegos cada día ganan más relevancia por su eficacia y potencial comunicativo. Pero más allá de que sea uno u otro, en la generación de contenidos, la clave del éxito está en orientar la producción del contenido a satisfacer las expectativas y necesidades del público objetivo.
+        p.mb-0.d-block Es por esta razón que, para alcanzar sus objetivos, será necesario que el Plan Editorial, recogido en el Plan de Mercadeo Digital, contemple todos los segmentos de público relevante, desarrollando contenidos adecuados para cada uno de ellos y optimizándolos para ser relevantes en cada uno de los momentos de interacción críticos identificados en el <em>Customer Journey Map</em>. 
 
     p.mb-5 Considerando los contenidos como configuradores de la experiencia de usuario en cada punto de contacto digital, es posible hablar de las siguientes categorías:
 
@@ -132,7 +132,7 @@
       PasosB.color-secundario
         .px-4.pt-lg-5.row(titulo="")
           .col-lg-6.mb-4.mb-lg-0
-            h3 Contenido Informativo
+            h3 Contenido informativo
             p Destaca las características técnicas y funcionales del producto para informar al cliente y captar su interés.
             p.mb-0 En el medio turístico, se usa bastante, ya que, como se ha mencionado, se debe describir un servicio o experiencia antes de que esta suceda.
           .col-lg-6
@@ -141,7 +141,7 @@
         
         .px-4.pt-lg-5.row(titulo="")
           .col-lg-6.mb-4.mb-lg-0
-            h3 Contenido Contextual
+            h3 Contenido contextual
             p Su propósito es construir confianza hacia la marca/empresa y destacar su reputación en el sector en el que opera. 
             p.mb-0 Este tipo de contenidos refleja autoridad y conocimiento por parte de la empresa de la(s) temática(s) más estrechamente vinculada(s) a su actividad, de forma que su oferta comercial gane credibilidad y atractivo ante los clientes potenciales.
           .col-lg-6
@@ -150,7 +150,7 @@
         
         .px-4.pt-lg-5.row(titulo="")
           .col-lg-6.mb-4.mb-lg-0
-            h3 Contenido Emocional
+            h3 Contenido emocional
             p Su objetivo es desarrollar la afinidad y la buena predisposición de los consumidores ante la marca, más allá de la calidad técnica o el precio de sus productos. 
             p.mb-0 Es un paso crítico en la conversión de un prospecto en cliente, ya que cada vez la diferenciación objetiva es más difícil de lograr y son los atributos subjetivos de marcas y productos los que determinan la gran mayoría de las decisiones de compra.
           .col-lg-6
@@ -159,7 +159,7 @@
         
         .px-4.pt-lg-5.row(titulo="")
           .col-lg-6.mb-4.mb-lg-0
-            h3 Contenido Motivacional
+            h3 Contenido motivacional
             p En este caso, la meta es mover al consumidor a completar la acción deseada (descargar un <em>white paper</em>, registrarse en una web o comprar un producto, por ejemplo). Su desarrollo habitualmente se basa en la presentación de casos de éxito y clientes felices que impulsen al público a desear ahorrarse 50 euros al mes, probar ese nuevo sabor o recrearse con ese diseño exclusivo del que todos hablan.
           .col-lg-6
             figure
@@ -167,7 +167,7 @@
           
         .px-4.pt-lg-5.row(titulo="")
           .col-lg-6.mb-4.mb-lg-0
-            h3 Contenido Inspiracional 
+            h3 Contenido inspiracional 
             p Apela a las convicciones profundas del cliente, hacerle partícipe de objetivos comunes y metas sociales que trascienden la satisfacción de la necesidad inmediata, por ejemplo, hablando de cómo los consumidores de productos de alimentación que cumplen con el estándar de comercio justo impulsan la salida de la pobreza de comunidades locales.
           .col-lg-6
             figure
@@ -217,7 +217,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_2 3.2. Plan editorial
+      h2#t_3_2 3.2 Plan editorial
     
     p.mb-5 Como se mencionó anteriormente, la generación de contenido es uno de los procesos más relevantes en las acciones de mercadeo digital, es también una de las tareas más costosas, independientemente de si se dedican recursos internos o se terceriza esta producción. Observe una explicación al respecto a través del siguiente video: 
 
@@ -225,7 +225,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 Por ende, en el plan deben estar identificadas las principales fuentes de información (publicaciones digitales sectoriales, blogs temáticos) y definirse la potencialidad de cada contenido para ser utilizado en un post, en una historia, en un tweet, etc., actualizándose mensualmente tras evaluar qué contenidos funcionan mejor en cada canal. Además, debe documentarse el objetivo a que responde cada categoría dentro de la temática, un ejemplo ilustrativo del tono comunicativo que se utilizará y la periodicidad de publicación. Esta última es muy importante, ya que crea un hábito y fideliza a la audiencia.
+    p.mb-5 Por ende, en el plan deben estar identificadas las principales fuentes de información (publicaciones digitales sectoriales, blogs temáticos) y definirse la potencialidad de cada contenido para ser utilizado en un <em>post</em>, en una historia, en un <em>tweet</em>, etc., actualizándose mensualmente tras evaluar qué contenidos funcionan mejor en cada canal. Además, debe documentarse el objetivo a que responde cada categoría dentro de la temática, un ejemplo ilustrativo del tono comunicativo que se utilizará y la periodicidad de publicación. Esta última es muy importante, ya que crea un hábito y fideliza a la audiencia.
 
     .tabla-b.color-acento-contenido.mb-5
       .tabla-b__header(style="background-color: white;")
@@ -317,7 +317,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_3 3.3. Características estratégicas de Internet
+      h2#t_3_3 3.3 Características estratégicas de Internet
     
     p.mb-5 Internet es un entorno que, aplicado al terreno comercial, es ante todo un sitio donde hacer negocios con ciertas ventajas respecto a las fórmulas empresariales tradicionales. Visto desde esta óptica, existe una serie de utilidades fundamentales que siempre se deberían tener en cuenta:
 
@@ -334,7 +334,7 @@
         p Internet permite incrementar el número de accesos e impactos, internacionalizar los contactos, y en definitiva, ser accesible a usuarios y clientes sin limitaciones geográficas.
       .tarjeta.p-3(x="73.5%" y="91%" numero="3" style="background-color: #FFF7E3")
         .h5.mb-2 Es un entorno donde se pueden llevar a cabo ventas directas	
-        p Este hecho supone una considerable reducción del coste de comunicación, una notable mejora de la cadena de distribución reduciendo o seleccionando mejores intermediarios, y una mayor competitividad en precios.
+        p Este hecho supone una considerable reducción del coste de comunicación, una notable mejora de la cadena de distribución, reduciendo o seleccionando mejores intermediarios, y una mayor competitividad en precios.
       .tarjeta.p-3(x="55%" y="91%" numero="4" style="background-color: #FFF7E3")
         .h5.mb-2 Es una red comercial que se basa en la colaboración integral	
         p El objetivo es disponer de una red de gran alcance y capacidad, para lo que se hace preciso definir una estrategia adecuada de alianzas estratégicas y afiliaciones con terceros. 
@@ -347,22 +347,22 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_4 3.4. <em>Mobile marketing</em>
+      h2#t_3_4 3.4 <em>Mobile marketing</em>
     
     .d-flex.flex-wrap.mb-5
       .col-lg-6.ps-lg-4.order-2.order-lg-1
         .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
           p El mercadeo móvil es el área del mercadeo digital que se enfoca en el diseño, implementación y realización de acciones definidas para usuarios de dispositivos móviles.
-        p Es una verdad innegable que cada día más y más personas acceden a Internet utilizando smartphones y tabletas, por lo que se trata de segmentos de gran relevancia en el mapa de públicos. 
+        p Es una verdad innegable que cada día más y más personas acceden a Internet utilizando <em>smartphones</em> y tabletas, por lo que se trata de segmentos de gran relevancia en el mapa de públicos. 
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema3/img-17.svg" style="max-width: 610px" alt="imagen decorativa")
 
-    p.mb-5 Como se muestra en el estudio realizado para Colombia por <em>Hootsuite</em> (ver siguiente imagen), 41.8 millones de personas acceden a redes sociales vía teléfono inteligente, por lo que es muy importante tener en cuenta, dentro del plan de mercadeo digital, optimizar su presencia <em>online</em> o desarrollar nuevos activos digitales para dispositivos móviles y así garantizar que sus acciones no pierdan alcance y eficacia.
+    p.mb-5 Como se muestra en el estudio realizado para Colombia por Hootsuite (ver siguiente imagen), 41.8 millones de personas acceden a redes sociales vía teléfono inteligente, por lo que es muy importante tener en cuenta, dentro del plan de mercadeo digital, optimizar su presencia <em>online</em> o desarrollar nuevos activos digitales para dispositivos móviles y así garantizar que sus acciones no pierdan alcance y eficacia.
 
     img.mb-5(src="@/assets/curso/temas/tema3/img-18.svg" alt="imagen decorativa")
 
-    p Debido a este marcado incremento del uso de dispositivos móviles, esta faceta “especializada” tiene cada vez una mayor influencia en el Customer Journey, interviniendo en fases críticas del mismo, como las búsquedas de información, consumo de videos, acceso a redes sociales y, cada vez más, realizando compras desde el dispositivo.
+    p Debido a este marcado incremento del uso de dispositivos móviles, esta faceta “especializada” tiene cada vez una mayor influencia en el <em>Customer Journey</em>, interviniendo en fases críticas del mismo, como las búsquedas de información, consumo de videos, acceso a redes sociales y, cada vez más, realizando compras desde el dispositivo.
 
-    p.mb-5 Dentro del mobile marketing, se pueden identificar las siguientes subcategorías:
+    p.mb-5 Dentro del <em>mobile marketing</em>, se pueden identificar las siguientes subcategorías:
 
     TabsC.color-primario
       .py-3.py-md-4(titulo="Aplicaciones<br> (<em>Apps</em>)")
@@ -376,7 +376,7 @@
       .py-3.py-md-4(titulo="<em>Bluecasting</em>")
         .row
           .col-md-5.mb-4.mb-md-0
-            p También conocido como <em>Bluetooth marketing</em>, es un sistema que permite enviar contenidos informativos o publicitarios via Bluetooth. Se usa para enriquecer experiencias de compra o eventos, dotándolos de un componente de respuesta directa en espacios reducidos.
+            p También conocido como <em>Bluetooth marketing</em>, es un sistema que permite enviar contenidos informativos o publicitarios vía <em>Bluetooth</em>. Se usa para enriquecer experiencias de compra o eventos, dotándolos de un componente de respuesta directa en espacios reducidos.
         
           .col-md-7
             figure
@@ -391,10 +391,10 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-21.jpg' alt='Imagen decorativa')
       
-      .py-3.py-md-4(titulo="Chatbots")
+      .py-3.py-md-4(titulo="<em>Chatbots</em>")
         .row
           .col-md-5.mb-4.mb-md-0
-            p Son interfaces digitales que hacen las veces de agentes de venta y servicio. Estos <em>bots</em> simplifican la comunicación y agilizan el contacto con los leads. Y si están bien configurados, son un primer punto de contacto muy eficiente.
+            p Son interfaces digitales que hacen las veces de agentes de venta y servicio. Estos <em>bots</em> simplifican la comunicación y agilizan el contacto con los <em>leads</em>. Y si están bien configurados, son un primer punto de contacto muy eficiente.
         
           .col-md-7
             figure
@@ -418,7 +418,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-24.jpg' alt='Imagen decorativa')
 
-      .py-3.py-md-4(titulo="Mobile Web")
+      .py-3.py-md-4(titulo="<em>Mobile Web</em>")
         .row
           .col-md-5.mb-4.mb-md-0
             p Las páginas web necesitan optimizarse para su correcta visualización y usabilidad en dispositivos móviles; a este concepto se le conoce como diseño responsivo o adaptativo. También el posicionamiento en buscadores no es exactamente igual que cuando se realizan búsquedas desde un PC. De hecho, Google y la mayoría de los buscadores otorgan más puntos a las páginas con diseño responsivo.
@@ -429,7 +429,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_5 3.5. Email marketing
+      h2#t_3_5 3.5 <em>Email marketing</em>
     
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema3/img-26.jpg" style="max-width: 610px" alt="imagen decorativa")
@@ -438,13 +438,13 @@
           p El <em>email marketing</em> es un correo de carácter comercial. Consiste en el envío masivo, habitual y coordinado de mensajes personalizados por correo electrónico, dirigidos a una base de datos segmentada, para realizar acciones planificadas de mercadeo.
         p Estas bases de datos pueden ser propias (construidas con base en la actividad de la empresa y reflejan la base de clientes) o adquiridas a un tercero, lo que permite ampliar la base de clientes, pero cuya eficacia y calidad de segmentación suele ser bastante menor.
     p Hay una regla de referencia que se conoce como la regla del 10 % - 10 % - 10 %: esto quiere decir que, sobre el total de envíos, un 10 % de los usuarios abrirá el correo. Entre este 10 % que abrió el correo, solo el 10 % hará clic en algún enlace, y entre quienes efectúan esa acción, solamente un 10 % completará una conversión/registro. 
-    p.mb-5 Esta regla es orientativa y varía dependiendo del producto o la calidad de la base de datos, pero es una buena aproximación. Observe los pasos que se deben tener en cuenta en un email marketing:
+    p.mb-5 Esta regla es orientativa y varía dependiendo del producto o la calidad de la base de datos, pero es una buena aproximación. Observe los pasos que se deben tener en cuenta en un <em>email marketing</em>:
 
     img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="imagen decorativa")
     
     .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
-      p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envió con un sistema CRM (Customer Relationship Management), la tarea será más sencilla. 
-      p Posteriormente, y como todo en mercadeo, medir toda la interacción de los envíos (el número de entregas efectuadas, las direcciones incorrectas, los usuarios que se han dado de baja y el número de transacciones realizadas). Entre las ventajas del email marketing, se pueden destacar:
+      p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envío con un sistema CRM (<em>Customer Relationship Management</em>), la tarea será más sencilla. 
+      p Posteriormente, y como todo en mercadeo, medir toda la interacción de los envíos (el número de entregas efectuadas, las direcciones incorrectas, los usuarios que se han dado de baja y el número de transacciones realizadas). Entre las ventajas del <em>email marketing</em>, se pueden destacar:
 
     .d-flex.flex-wrap.mb-5
       .col-lg-6.order-2.order-lg-1.pe-lg-4.d-flex.align-items-end
@@ -480,11 +480,11 @@
 
     .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema3/img-29.svg" style="max-width: 85px" alt="imagen decorativa")
-      p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del email marketing es la creatividad; en líneas generales, un email de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
+      p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del <em>email marketing</em> es la creatividad; en líneas generales, un email de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
     
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_3_6 3.6. <em>Marketing de afiliación</em>
+      h2#t_3_6 3.6 <em>Marketing</em> de afiliación
     
     .d-flex.flex-wrap.mb-5
       .col-lg-6.order-2.order-lg-1.pe-lg-4

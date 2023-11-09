@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Estructuración de un plan de mercadeo.
+          h2 Estructuración de un plan de mercadeo
         p.mb-4 Identificar los diferentes conceptos que se manejan en la estructuración de un plan de mercadeo para atender todas las acciones de promoción en el ámbito digital de un emprendimiento o negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

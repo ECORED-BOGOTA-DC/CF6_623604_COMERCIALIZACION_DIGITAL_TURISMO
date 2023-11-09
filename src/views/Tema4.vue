@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 4
-      h1(data-aos="fade-left") Titulo de primer nivel
+      h1(data-aos="fade-left") Acciones <em>offline</em>
 
     .mb-5.pt-5
       div(style="background-color: #FFB338; border-top-right-radius: 60px")
@@ -92,7 +92,7 @@
             figure
               img(src="@/assets/curso/temas/tema4/img-11.png" alt="Imagen decorativa")
           .crd_hover_txt--body
-            h4.text-center.mb-0 Valla Publicitaria
+            h4.text-center.mb-0 Valla publicitaria
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -100,7 +100,7 @@
             figure
               img(src="@/assets/curso/temas/tema4/img-12.png" alt="Imagen decorativa")
           .crd_hover_txt--body
-            h4.text-center.mb-0 Aviso Publicitario
+            h4.text-center.mb-0 Aviso publicitario
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -108,7 +108,7 @@
             figure
               img(src="@/assets/curso/temas/tema4/img-13.png" alt="Imagen decorativa")
           .crd_hover_txt--body
-            h4.text-center.mb-0 <em>Digital Signage</em>
+            h4.text-center.mb-0 <em>Digital signage</em>
 
     .container-titulo.mb-5
       img(src="@/assets/curso/temas/tema4/img-14.svg" style="max-width: 78px; width: 78px" alt="imagen decorativa")
@@ -121,7 +121,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-11.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-15.png" alt="Imagen decorativa")
           .crd_hover_txt--body
             h4.text-center.mb-0 Radio
 
@@ -129,7 +129,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-12.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-16.png" alt="Imagen decorativa")
           .crd_hover_txt--body
             h4.text-center.mb-0 Prensa
 
@@ -137,7 +137,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-13.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-17.png" alt="Imagen decorativa")
           .crd_hover_txt--body
             h4.text-center.mb-0 Televisión
     
@@ -148,7 +148,7 @@
     .d-flex.flex-wrap.mb-5
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema4/img-19.jpg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
-        p La multiplicidad de canales ha permitido incrementar exponencialmente el alcance de los eventos. Los micrositios permiten gestionar las expectativas y comunicar la información básica antes del evento, mientras que las redes sociales son un canal determinante en la difusión del evento antes y durante el mismo. De vuelta, estos eventos corporativos, deportivos o de espectáculo están plagados de publicidad impresa o display patrocinada por alguna marca.
+        p La multiplicidad de canales ha permitido incrementar exponencialmente el alcance de los eventos. Los micrositios permiten gestionar las expectativas y comunicar la información básica antes del evento, mientras que las redes sociales son un canal determinante en la difusión del evento antes y durante el mismo. De vuelta, estos eventos corporativos, deportivos o de espectáculo están plagados de publicidad impresa o <em>display</em> patrocinada por alguna marca.
 
         .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
           p En conclusión, la integración y coordinación en medios <em>offline</em> es un buen respaldo o motor para impulsar, reforzar y obtener el máximo impacto de las acciones <em>online</em>. La realidad es que ambos medios, <em>on</em> y <em>offline</em>, son complementarios, se retroalimentan, y los nuevos patrones de consumo, ya comentados (ROPO, <em>Showrooming</em>, RTB), sugieren que convivirán durante mucho tiempo, por lo que todo profesional debería conocer ambas realidades para obtener el máximo rendimiento de sus acciones.
