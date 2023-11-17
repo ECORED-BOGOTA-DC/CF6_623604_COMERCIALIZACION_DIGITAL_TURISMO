@@ -5,7 +5,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra mapa conceptual de los temas abordados dentro de l componente de formación como lo son los objetivos, planificación estratégica, acciones offline y presupuesto de marketing junto con  sus subtemas para el plan de mercadeo digital II")
       .col-12.d-flex.justify-content-center
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")

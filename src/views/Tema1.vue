@@ -13,7 +13,7 @@
         .cajon.color-primario.p-4.mb-4(style="background-color: #FFECBE")
           p Antes de iniciar esta temática, debe responder las siguientes preguntas, que son cruciales para enfocarse en lograr resultados: ¿Para qué está haciendo esto? ¿Cuáles son sus objetivos específicos? ¿Qué es lo que quiere lograr con este plan? Se debe tener claro el marco de referencia, de modo que formular los objetivos debe conducir al logro de la misión y expresar lo que la empresa quiere; para ello, es importante plantear objetivos bajo el método SMART, que ayudarán a que sean específicos, medibles, alcanzables, relevantes y ubicados temporalmente.
     figure.col-xl-10.mx-auto(data-aos="fade")
-      img.mb-4(src='@/assets/curso/temas/tema1/img-2.svg' alt='imagen decorativa')
+      img.mb-4(src='@/assets/curso/temas/tema1/img-2.svg' alt='Grafica que muestra Relación entre objetivos de negocios y del canal por John Lovett con siguiente texto: 1. Circulo central  Ingresos, Fidelización, Innovación 2. Circulo siguiente Notoriedad, Diálogo, Generar comunidad, Servicio al cliente, Ventas Promover innovación. 3. Circulo siguiente Reach Velocity Share of voice, Participantes únicos número de conversiones  Engagement, Advocates  No. activos,Influencia Impacto, Tasa de resolución  nivel de satisfacción, Tasa de conversión, Tasa de interacción, Tendencias sentimientos impacto de idea. 4. circulo siguiente Agregadores Micromedia, foros Comunidades, Micromedia Plataformas sociales Blogs/foros Foros Comunidades, Micromedia Web Foros Comunidades Micromedia Blog Comunidades Micromedia Plataformas sociales Web Foros, Comunidades Plataformas sociales.')
       figcaption Fuente: Social Analytics Frameworks de John Lovett.
     
     Separador

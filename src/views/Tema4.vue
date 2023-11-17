@@ -25,7 +25,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-3.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-3.png" alt="Imagen de material en puntos de venta")
           .crd_hover_txt--body.pb-3
             h4.text-center.mb-0 Material en punto de venta
 
@@ -33,7 +33,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-4.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-4.png" alt="Imagen de material en puntos de venta")
           .crd_hover_txt--body.pb-3
             h4.text-center.mb-0 Material en punto de venta
 
@@ -41,7 +41,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-5.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-5.png" alt="Imagen de material en puntos de venta")
           .crd_hover_txt--body.pb-3
             h4.text-center.mb-0 Material en punto de venta
     h4.text-center.d-none.d-xl-block.mb-5(
@@ -59,7 +59,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-7.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-7.png" alt="Imagen decorativa de Catálogo")
           .crd_hover_txt--body
             h4.text-center.mb-0 Catálogo
 
@@ -67,7 +67,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-8.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-8.png" alt="Imagen decorativa de Volante")
           .crd_hover_txt--body
             h4.text-center.mb-0 Volante
 
@@ -75,7 +75,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-9.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-9.png" alt="Imagen decorativa de Material POP")
           .crd_hover_txt--body
             h4.text-center.mb-0 Material POP
     
@@ -90,7 +90,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-11.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-11.png" alt="Imagen decorativa de Valla publicitaria")
           .crd_hover_txt--body
             h4.text-center.mb-0 Valla publicitaria
 
@@ -98,7 +98,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-12.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-12.png" alt="Imagen decorativa de Aviso publicitario")
           .crd_hover_txt--body
             h4.text-center.mb-0 Aviso publicitario
 
@@ -106,7 +106,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-13.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-13.png" alt="Imagen decorativa de Digital signage")
           .crd_hover_txt--body
             h4.text-center.mb-0 <em>Digital signage</em>
 
@@ -121,7 +121,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-15.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-15.png" alt="Imagen decorativa de Radio")
           .crd_hover_txt--body
             h4.text-center.mb-0 Radio
 
@@ -129,7 +129,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-16.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-16.png" alt="Imagen decorativa de Prensa")
           .crd_hover_txt--body
             h4.text-center.mb-0 Prensa
 
@@ -137,7 +137,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/img-17.png" alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema4/img-17.png" alt="Imagen decorativa de Televisión")
           .crd_hover_txt--body
             h4.text-center.mb-0 Televisión
     
@@ -146,7 +146,7 @@
       h3 RRPP, eventos y patrocinios
     
     .d-flex.flex-wrap.mb-5
-      img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema4/img-19.jpg" style="max-width: 610px" alt="imagen decorativa")
+      img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema4/img-19.jpg" style="max-width: 610px" alt="imagen decorativa publicidad en eventos")
       .col-lg-6.ps-lg-4
         p La multiplicidad de canales ha permitido incrementar exponencialmente el alcance de los eventos. Los micrositios permiten gestionar las expectativas y comunicar la información básica antes del evento, mientras que las redes sociales son un canal determinante en la difusión del evento antes y durante el mismo. De vuelta, estos eventos corporativos, deportivos o de espectáculo están plagados de publicidad impresa o <em>display</em> patrocinada por alguna marca.
 

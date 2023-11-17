@@ -358,7 +358,7 @@
 
     p.mb-5 Como se muestra en el estudio realizado para Colombia por Hootsuite (ver siguiente imagen), 41.8 millones de personas acceden a redes sociales vía teléfono inteligente, por lo que es muy importante tener en cuenta, dentro del plan de mercadeo digital, optimizar su presencia <em>online</em> o desarrollar nuevos activos digitales para dispositivos móviles y así garantizar que sus acciones no pierdan alcance y eficacia.
 
-    img.mb-5(src="@/assets/curso/temas/tema3/img-18.svg" alt="imagen decorativa")
+    img.mb-5(src="@/assets/curso/temas/tema3/img-18.svg" alt="Muestra infografía descripción general social media  y se describe en la parte inferior")
 
     p Debido a este marcado incremento del uso de dispositivos móviles, esta faceta “especializada” tiene cada vez una mayor influencia en el <em>Customer Journey</em>, interviniendo en fases críticas del mismo, como las búsquedas de información, consumo de videos, acceso a redes sociales y, cada vez más, realizando compras desde el dispositivo.
 
@@ -440,7 +440,7 @@
     p Hay una regla de referencia que se conoce como la regla del 10 % - 10 % - 10 %: esto quiere decir que, sobre el total de envíos, un 10 % de los usuarios abrirá el correo. Entre este 10 % que abrió el correo, solo el 10 % hará clic en algún enlace, y entre quienes efectúan esa acción, solamente un 10 % completará una conversión/registro. 
     p.mb-5 Esta regla es orientativa y varía dependiendo del producto o la calidad de la base de datos, pero es una buena aproximación. Observe los pasos que se deben tener en cuenta en un <em>email marketing</em>:
 
-    img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="imagen decorativa")
+    img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="Muestra infografía Email marketing  con el siguiente texto ¿Qué es? Envió masivo, habitual y coordinado de mensajes personalizados de correo de carácter comercial, con 4 pasos que se describen en la parte inferior de la imagen.")
     
     .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
       p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envío con un sistema CRM (<em>Customer Relationship Management</em>), la tarea será más sencilla. 
@@ -495,7 +495,7 @@
     p.mb-5 Observe la siguiente información, que aclara un poco, a través de un ejemplo, cómo funciona este tipo de <em>marketing</em>:
 
     .container-100.px-0.mb-5
-      img(src="@/assets/curso/temas/tema3/img-31.svg" alt="imagen decorativa")
+      img(src="@/assets/curso/temas/tema3/img-31.svg" alt="Muestra infografía con 9 pasos de marketing de afiliados y se describen en la parte inferior de la imagen")
     
     p.mb-5 En ese orden de ideas, existen dos posibilidades para desarrollar un programa de afiliados: 
 

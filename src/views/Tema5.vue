@@ -108,7 +108,7 @@
 
     p.mb-5 Para empresas nuevas, se recomienda destinar del 15 al 20 % de los ingresos brutos al mercadeo, mientras que en empresas consolidadas, esta cifra sería del 8 al 12 % de los ingresos brutos. Este porcentaje varía de acuerdo con el tipo de compañía:
 
-    img.col-xl-10.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema5/img-9.svg" alt="imagen decorativa")
+    img.col-xl-10.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema5/img-9.svg" alt="Muestra porcentaje del ingreso bruto")
 
     p Como se mencionó, estos valores son referenciales. Lo que sí se puede afirmar es que la tendencia a invertir partidas más amplias en mercadeo digital crece, mientras que la inversión en medios tradicionales cae.
 
