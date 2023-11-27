@@ -91,10 +91,10 @@
               | Aplicaciones.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Artículos (<em>posts</em>).
+              p.mb-0 Artículos (<em>posts</em>).
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Audios y <em>podcasts</em>.
+              p.mb-0 Audios y <em>podcasts</em>.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Fotografías e ilustraciones.
@@ -418,7 +418,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-24.jpg' alt='Imagen decorativa')
 
-      .py-3.py-md-4(titulo="<em>Mobile Web</em>")
+      .py-3.py-md-4(titulo="<em>Mobile</em> web")
         .row
           .col-md-5.mb-4.mb-md-0
             p Las páginas web necesitan optimizarse para su correcta visualización y usabilidad en dispositivos móviles; a este concepto se le conoce como diseño responsivo o adaptativo. También el posicionamiento en buscadores no es exactamente igual que cuando se realizan búsquedas desde un PC. De hecho, Google y la mayoría de los buscadores otorgan más puntos a las páginas con diseño responsivo.
@@ -440,7 +440,7 @@
     p Hay una regla de referencia que se conoce como la regla del 10 % - 10 % - 10 %: esto quiere decir que, sobre el total de envíos, un 10 % de los usuarios abrirá el correo. Entre este 10 % que abrió el correo, solo el 10 % hará clic en algún enlace, y entre quienes efectúan esa acción, solamente un 10 % completará una conversión/registro. 
     p.mb-5 Esta regla es orientativa y varía dependiendo del producto o la calidad de la base de datos, pero es una buena aproximación. Observe los pasos que se deben tener en cuenta en un <em>email marketing</em>:
 
-    img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="Muestra infografía Email marketing  con el siguiente texto ¿Qué es? Envió masivo, habitual y coordinado de mensajes personalizados de correo de carácter comercial, con 4 pasos que se describen en la parte inferior de la imagen.")
+    img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="Muestra infografía Email marketing  con el siguiente texto ¿Qué es? Envío masivo, habitual y coordinado de mensajes personalizados de correo de carácter comercial, con 4 pasos que se describen en la parte inferior de la imagen.")
     
     .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
       p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envío con un sistema CRM (<em>Customer Relationship Management</em>), la tarea será más sencilla. 
@@ -452,7 +452,7 @@
           ul.lista-ul
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | La popularidad del email y su alcance en términos de usuarios.
+              p.mb-0 La popularidad del <em>email</em> y su alcance en términos de usuarios.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Rapidez.
@@ -480,7 +480,7 @@
 
     .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema3/img-29.svg" style="max-width: 85px" alt="imagen decorativa")
-      p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del <em>email marketing</em> es la creatividad; en líneas generales, un email de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
+      p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del <em>email marketing</em> es la creatividad; en líneas generales, un <em>email</em> de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
     
     Separador
     .titulo-segundo.color-acento-contenido

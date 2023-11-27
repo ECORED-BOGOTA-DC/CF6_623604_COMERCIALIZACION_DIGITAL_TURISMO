@@ -100,9 +100,9 @@ export default {
             hash: 't_3_3',
           },
           {
-            numero: '3.3',
+            numero: '3.4',
             titulo: '<em>Mobile Marketing</em>',
-            hash: 't_3_3',
+            hash: 't_3_4',
           },
           {
             numero: '3.5',

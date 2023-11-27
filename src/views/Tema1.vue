@@ -132,7 +132,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-5.jpg')})`}"
-              style="background-size: cover"
+              style="background-size: cover; background-position: center left"
             )
             .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
               img.mb-4(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 255px" alt="imagen decorativa")
@@ -176,7 +176,7 @@
                   | Solucionar dudas y quejas sobre el producto.
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7.jpg')})`}"
-              style="background-size: cover"
+              style="background-size: cover; background-position: center left"
             )
     
     .row.mb-5
@@ -185,10 +185,10 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7_1.jpg')})`}"
-              style="background-size: cover"
+              style="background-size: cover; background-position: center left"
             )
             .tarjeta-slide__contenido.p-4(style="min-height: 255px; background-color: #DBEDF8")
-              img.mb-4(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 210px" alt="imagen decorativa")
+              img.mb-4(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 255px" alt="imagen decorativa")
               ul.lista-ul
                 li.d-flex.mb-0
                   .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
@@ -220,7 +220,7 @@
                   | Optimizar la atención al cliente para incrementar su satisfacción.
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-8.jpg')})`}"
-              style="background-size: cover"
+              style="background-size: cover; background-position: center left;"
             )
     
     .mb-5.pt-5
@@ -276,7 +276,7 @@
               | Publicar más contenido en todas las redes.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
-              | Generar más <em>leads</em> para enviar información.
+              p.mb-0 Generar más <em>leads</em> para enviar información.
             li.d-flex.mb-0
               .me-2.mt-1.mb-auto(style="min-width: 14px; min-height: 14px; border-radius: 50%; border: 5px solid #EB6F2D")
               | Ampliar la base de datos de correos electrónicos.
@@ -303,31 +303,31 @@
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 1
-            | <em>“Deberá mostrar el objetivo de la organización.</em>
+            p.mb-0 <em>“Deberá mostrar el objetivo de la organización.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 2
-            | <em>Ser definido por la dirección de la empresa.</em>
+            p.mb-0 <em>Ser definido por la dirección de la empresa.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 3
-            | <em>Proporcionar contexto.</em>
+            p.mb-0 <em>Proporcionar contexto.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 4
-            | <em>Tener significado en distintos niveles.</em>
+            p.mb-0 <em>Tener significado en distintos niveles.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 5
-            | <em>Estar basado en datos reales.</em>
+            p.mb-0 <em>Estar basado en datos reales.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 6
-            | <em>Ser fácilmente entendible.</em>
+            p.mb-0 <em>Ser fácilmente entendible.</em>
           li 
             .lista-ol--cuadro__vineta(style="background-color: #B6E1FD; color: black")
               span.fw-bold 7
-            | <em>Conducir la acción”.</em>
+            p.mb-0 <em>Conducir la acción”.</em>
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto.ms-lg-0.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-14.svg" style="max-width: 610px" alt="imagen decorativa")
 
     p.mb-5 Mortensen afirma que, si no se cumplen, estos parámetros son simples métricas y no indicadores (Merkle Incorporated, 2020).
