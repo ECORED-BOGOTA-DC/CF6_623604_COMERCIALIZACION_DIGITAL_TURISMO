@@ -223,7 +223,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/EJ_xpcYpSUE?si=CRX9rMczmwe87WiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Por ende, en el plan deben estar identificadas las principales fuentes de información (publicaciones digitales sectoriales, blogs temáticos) y definirse la potencialidad de cada contenido para ser utilizado en un <em>post</em>, en una historia, en un <em>tweet</em>, etc., actualizándose mensualmente tras evaluar qué contenidos funcionan mejor en cada canal. Además, debe documentarse el objetivo a que responde cada categoría dentro de la temática, un ejemplo ilustrativo del tono comunicativo que se utilizará y la periodicidad de publicación. Esta última es muy importante, ya que crea un hábito y fideliza a la audiencia.
 
