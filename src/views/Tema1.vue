@@ -66,7 +66,7 @@
 
     figure.col-xl-10.mx-auto.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/6UndLxdc65E?si=TeFsi59mtOH5_Bjz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/izlNFrKaE6w?si=PySEzzhgVdlAg6S2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Recuerde que establecer unos objetivos adecuados permite reaccionar ante estrategias o tácticas que no cumplen con las expectativas. Un ejemplo del método SMART sería el siguiente: “Aumentar en un 20% las reservas por redes sociales en el primer semestre del año”, entendiendo que:
 
@@ -352,7 +352,7 @@
             .col.mb-3.mb-sm-0
               p Estimado aprendiz, si desea complementar sus conocimientos sobre este tema, lo invitamos a que consulte el libro: <em>The Big Book of the Key Performance indicators</em> - Jason Burby
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones(href="https://analyticsdemystified.com/wp-content/uploads/2019/01/The_Big_Book_of_Key_Performance_Indicators_by_Eric_Peterson.pdf" target="_blank")
                 span Ingresar 
                 i.fas.fa-link
 
