@@ -511,7 +511,7 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema3/img-33.svg' alt='Imagen decorativa')
-        p La segunda opción es que la plataforma sea provista por una red intermediaria entre anunciantes y afiliados. Hay varias redes especializadas, es posible mencionar <em>TradeDoubler, Netfilia</em>, aunque sus precios y mantenimiento sean más elevados y queden reservados a empresas de tamaño medio y grande. 
+        p La segunda opción es que la plataforma sea provista por una red intermediaria entre anunciantes y afiliados. Hay varias redes especializadas, es posible mencionar TradeDoubler, Netfilia, aunque sus precios y mantenimiento sean más elevados y queden reservados a empresas de tamaño medio y grande. 
     p.mb-5 Las redes de afiliación ofrecen los siguientes servicios a los anunciantes:
 
     .d-flex.flex-wrap.mb-5
