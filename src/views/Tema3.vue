@@ -29,7 +29,7 @@
         p Los contenidos son la piedra angular de todo el mercadeo y la comunicación digital. El contenido es el principal valor que una marca o empresa puede transmitir en los canales digitales. Además, por su propia naturaleza, permite establecer una interacción regular y segmentar al público de forma eficaz. Dentro de las industrias turísticas, esto tiene especial relevancia, ya que, en el contenido, recae en gran medida el poder vender.
         p.mb-0 Por lo tanto, el contenido no debe dejarse al azar, ya que, se trata de un poderoso instrumento, que le servirá para atraer al público hacia la oferta de valor de su empresa, conseguir su atención, viralizar sus mensajes y fidelizar a sus clientes y prospectos.
 
-    .container-100.d-flex.flex-wrap.align-items-center.py-4.mb-5(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
+    .container-100.d-flex.flex-wrap.align-items-center.p-4.mb-5(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
       img(src="@/assets/curso/temas/tema3/img-3.svg" style="max-width: 85px" alt="imagen decorativa")
       p.col-md.mb-0.ps-md-4 Brian Solís, uno de los grandes gurús del <em>Social Media</em> en Estados Unidos, habla de “<b>objetos sociales</b>”, en su artículo “<em>Social Media’s Critical Path: Relevance to Resonance to Significance</em>”. (Solis, 2010).
 
@@ -311,8 +311,8 @@
     
     p.mb-5 En la tabla anterior, se muestra un modelo de plan editorial, el cual ayudará a programar la creación de contenidos propios y además agilizará la identificación de contenido de calidad generado por terceros, coherente con su posicionamiento y objetivos. 
     
-    .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
-      img(src="@/assets/curso/temas/tema3/img-15.svg" style="max-width: 85px" alt="imagen decorativa")
+    .container-100.d-flex.flex-wrap.align-items-center.p-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
+      img.mx-auto.mb-lg-0.mb-4(src="@/assets/curso/temas/tema3/img-15.svg" style="max-width: 85px" alt="imagen decorativa")
       p.col-md.mb-0.ps-md-4 El contenido de terceros cumple un doble objetivo: por un lado, le ayudará a entablar relaciones con creadores e <em>influencers</em>, y por el otro, le ayuda a presentarse como un actor transparente y honesto, para quien prima la calidad del contenido sobre su origen corporativo. Una vez más, necesitará apoyarse en la investigación y el <em>benchmarking</em> en otras comunidades similares para identificar el contenido de calidad, tanto para producirlo como para compartir el de otros. 
 
     Separador
@@ -442,7 +442,7 @@
 
     img.col-xl-6.col-lg-8.mx-auto.mb-5(src="@/assets/curso/temas/tema3/img-27.svg" alt="Muestra infografía Email marketing  con el siguiente texto ¿Qué es? Envío masivo, habitual y coordinado de mensajes personalizados de correo de carácter comercial, con 4 pasos que se describen en la parte inferior de la imagen.")
     
-    .container-100.mb-5.py-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
+    .container-100.mb-5.p-4(style="background: linear-gradient(180deg, rgba(233,246,252,1) 0%, rgba(255,255,255,1) 100%);")
       p Existen plataformas de gestión de envíos, pero para un resultado eficaz, se debe segmentar la base de datos y personalizar al máximo sus comunicaciones. Si existe la posibilidad de una integración de estas herramientas de envío con un sistema CRM (<em>Customer Relationship Management</em>), la tarea será más sencilla. 
       p Posteriormente, y como todo en mercadeo, medir toda la interacción de los envíos (el número de entregas efectuadas, las direcciones incorrectas, los usuarios que se han dado de baja y el número de transacciones realizadas). Entre las ventajas del <em>email marketing</em>, se pueden destacar:
 
@@ -478,8 +478,8 @@
 
     p.mb-5 Estas características de los envíos masivos por correo electrónico hacen que sea muy usado en la realización de campañas comerciales y acciones de fidelización, ya que se trata de un medio que refuerza la divulgación de la imagen de marca y un excelente apoyo en la fidelización de clientes a través del contacto habitual.
 
-    .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
-      img(src="@/assets/curso/temas/tema3/img-29.svg" style="max-width: 85px" alt="imagen decorativa")
+    .container-100.d-flex.flex-wrap.align-items-center.p-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
+      img.mx-auto.mb-lg-0.mb-4(src="@/assets/curso/temas/tema3/img-29.svg" style="max-width: 85px" alt="imagen decorativa")
       p.col-md.mb-0.ps-md-4 Junto a la gestión de la base de datos y las capacidades de las plataformas de envío, la clave del <em>email marketing</em> es la creatividad; en líneas generales, un <em>email</em> de envío masivo debe ser ligero, tener un título contundente que fomente su apertura y un contenido llamativo acompañado de un llamado a la acción. Para ello, el uso de HTML, textos cortos, sumados al concepto creativo, será fundamental.
     
     Separador
@@ -494,8 +494,8 @@
 
     p.mb-5 Observe la siguiente información, que aclara un poco, a través de un ejemplo, cómo funciona este tipo de <em>marketing</em>:
 
-    .container-100.px-0.mb-5
-      img(src="@/assets/curso/temas/tema3/img-31.svg" alt="Muestra infografía con 9 pasos de marketing de afiliados y se describen en la parte inferior de la imagen")
+    .container-100.px-4.mb-5
+      img.mx-auto(src="@/assets/curso/temas/tema3/img-31.svg" alt="Muestra infografía con 9 pasos de marketing de afiliados y se describen en la parte inferior de la imagen")
     
     p.mb-5 En ese orden de ideas, existen dos posibilidades para desarrollar un programa de afiliados: 
 

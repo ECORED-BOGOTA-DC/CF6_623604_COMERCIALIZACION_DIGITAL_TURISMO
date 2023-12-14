@@ -73,7 +73,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Método POST',
+            titulo: 'Método <em>POST</em>',
             hash: 't_2_2',
           },
         ],
@@ -281,12 +281,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
@@ -307,7 +307,7 @@ export default {
         },
         {
           nombre: 'Gloria Alexandra Orejarena Barrios',
-          cargo: 'Diseño instruccional',
+          cargo: 'Diseño Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
@@ -317,7 +317,7 @@ export default {
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable equipo de desarrollo curricular',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -328,13 +328,13 @@ export default {
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesoría metodológica y pedagógica',
+          cargo: 'Asesoría Metodológica y Pedagógica',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional',
+          cargo: 'Adecuación Instruccional',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -345,7 +345,7 @@ export default {
       autores: [
         {
           nombre: 'Yazmín Rocío Figueroa Pacheco',
-          cargo: 'Diseño web',
+          cargo: 'Diseño Web',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -363,7 +363,7 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -374,20 +374,20 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo:
-            'Validación de recursos educativos digitales y vinculación LMS',
+            'Validación de Recursos Educativos Digitales y Vinculación LMS',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de Recursos Educativos Digitales',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },

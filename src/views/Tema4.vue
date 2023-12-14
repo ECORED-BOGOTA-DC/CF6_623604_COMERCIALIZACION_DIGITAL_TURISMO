@@ -17,7 +17,7 @@
       img(src="@/assets/curso/temas/tema4/img-2.svg" style="max-width: 78px; width: 78px" alt="imagen decorativa")
       h3 Publicidad en punto de venta
     
-    p.mb-5 Existe la posibilidad de integrar elementos visuales en el punto de venta que, además de ayudar a decorar, incorporen elementos de respuesta directa digital que aumenten el impacto e interés entre el público. En este caso, se habla de <em>pósters</em> con códigos QR o códigos ubicados en estantes o góndolas que hagan parte de una promoción particular y que incluyan un enlace web a una <em>landing page</em> específica.
+    p.mb-5 Existe la posibilidad de integrar elementos visuales en el punto de venta que, además de ayudar a decorar, incorporen elementos de respuesta directa digital que aumenten el impacto e interés entre el público. En este caso, se habla de pósteres con códigos QR o códigos ubicados en estantes o góndolas que hagan parte de una promoción particular y que incluyan un enlace web a una <em>landing page</em> específica.
 
 
     .row.justify-content-center.mb-5.mb-xl-0
@@ -154,7 +154,7 @@
           p En conclusión, la integración y coordinación en medios <em>offline</em> es un buen respaldo o motor para impulsar, reforzar y obtener el máximo impacto de las acciones <em>online</em>. La realidad es que ambos medios, <em>on</em> y <em>offline</em>, son complementarios, se retroalimentan, y los nuevos patrones de consumo, ya comentados (ROPO, <em>Showrooming</em>, RTB), sugieren que convivirán durante mucho tiempo, por lo que todo profesional debería conocer ambas realidades para obtener el máximo rendimiento de sus acciones.
 
     .container-100.d-flex.flex-wrap.align-items-center.py-4(style="background-color: #E8F5FE; box-shadow: 0 3px 6px 3px #00000010")
-      img(src="@/assets/curso/temas/tema4/img-20.svg" style="max-width: 98px" alt="imagen decorativa")
+      img.mx-auto.mb-lg-0.mb-4(src="@/assets/curso/temas/tema4/img-20.svg" style="max-width: 98px" alt="imagen decorativa")
       p.col-md.mb-0.ps-md-4 El mercadeo digital o en línea y el mercadeo tradicional u <em>offline</em> son herramientas que están dentro del espectro mediático a disposición de los anunciantes y no son opciones excluyentes. Lo importante es tener coherencia en su uso y un monitoreo permanente de la rentabilidad generada por cada canal.
 
 

@@ -46,9 +46,9 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_2_2 2.2 Método POST
+      h2#t_2_2 2.2 Método #[em POST]
     
-    p.mb-5 Este método, que fue propuesto por la firma norteamericana de mercadotecnia Forrester Research, es el más utilizado para planificar la estrategia de cara a la web social. POST es el acrónimo de:
+    p.mb-5 Este método, que fue propuesto por la firma norteamericana de mercadotecnia Forrester Research, es el más utilizado para planificar la estrategia de cara a la web social. #[em POST] es el acrónimo de:
 
     .tabla-b.col-xxl-4.col-xl-8.col-lg-10.mx-auto.mb-5
       table(style="min-width: 400px")
@@ -131,9 +131,9 @@
       img.col-lg-6.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-10.jpg" style="max-width: 610px" alt="imagen decorativa")
       .col-lg-6.ps-lg-4
         .cajon.color-acento-botones.p-4.mb-4
-          p Cuando se aplica el método POST a una campaña de redes sociales, la personalización no es un programa de configuración de una sola vez, por lo que se convertirá en un proceso de mejora continua. Para un plan de personalización exitoso, el equipo analiza y mejora constantemente los resultados, para garantizar que la estrategia elegida logre el objetivo, y si no, realiza mejoras para mejorar el rendimiento.
-        p Su popularidad reside en que logra reunir simplicidad y eficacia, y evita que elementos claves del proceso de reflexión estratégica puedan ser obviados. Por ejemplo, abrir un FanPage de Facebook sin plantearse previamente si su público está allí o si su propuesta de interacción es adecuada.
-    p.mb-5 Ejemplos como este son más comunes de lo que se puede pensar. Revise en detalle los componentes que hacen referencia a los pasos del método POST:
+          p Cuando se aplica el método #[em POST] a una campaña de redes sociales, la personalización no es un programa de configuración de una sola vez, por lo que se convertirá en un proceso de mejora continua. Para un plan de personalización exitoso, el equipo analiza y mejora constantemente los resultados, para garantizar que la estrategia elegida logre el objetivo, y si no, realiza mejoras para mejorar el rendimiento.
+        p Su popularidad reside en que logra reunir simplicidad y eficacia, y evita que elementos claves del proceso de reflexión estratégica puedan ser obviados. Por ejemplo, abrir un #[em FanPage] de Facebook sin plantearse previamente si su público está allí o si su propuesta de interacción es adecuada.
+    p.mb-5 Ejemplos como este son más comunes de lo que se puede pensar. Revise en detalle los componentes que hacen referencia a los pasos del método #[em POST]:
 
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-botones.p-4(titulo="Personas" style="background-color: #FFF3D6")
